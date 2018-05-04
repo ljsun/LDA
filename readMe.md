@@ -15,6 +15,8 @@
 > For example, choose topic number is 4,  iteration is 1000, burnIn is 100, and sample argument every 10 times
 
 > **LDA result**
+![](https://github.com/ljsun/LDA/blob/master/LDA/image/LDA.png)
 
 > **HLDA result**
+![](https://github.com/ljsun/LDA/blob/master/LDA/image/HLDA.png)
 
