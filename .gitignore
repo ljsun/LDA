@@ -1,0 +1,7 @@
+# python
+*.py[cod]
+*.egg
+*.so
+*.egg-info
+.idea/
+notebook/
